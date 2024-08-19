@@ -5,3 +5,4 @@
    2. Fine Tuned on [ruslanmv/ai-medical-chatbot](https://huggingface.co/datasets/ruslanmv/ai-medical-chatbot) dataset(260k rows)
    3. Leveraged [Predibase]([url](https://app.predibase.com/)) for all the resources
    4. Comparison of how the fine-tuned model works vs the base model and how the performance increased.
+   5. Necessary library installation is mentioned in the .ipynb file.
